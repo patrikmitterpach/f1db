@@ -18,6 +18,8 @@ The database, *written in Slovak*, consists of:
 - `200+ records`
 - `25 SQL queries`
 
+<img src="https://github.com/patrikmitterpach/f1db/blob/main/images/Screenshot%202022-05-12%20215900.png?raw=true"> 
+
 ## Instructions
 To properly utilize the queries, the files have to be executed in the following order:  
 ```
