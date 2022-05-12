@@ -27,8 +27,8 @@ The database, *written in Slovak*, consists of:
 ### 📝 Commentary
 The project was created as a learning exercise and should be taken as such.  
 Several concepts could've been executed better with experience, however the project  
-is something I am proud of, as the final placement was among the top 1% of **all students**,  
-recieving full marks in every category evaluated. 
+is something I am proud of as the final placement of the project was among the top *1%*
+of all students,  recieving full points in every category evaluated. 
 
 ### 📒 Sources
 (pasted from the original version)
