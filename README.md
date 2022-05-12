@@ -1,5 +1,5 @@
 <h1 align="center">
-PostrgreSQL Formula 1 Database
+PostgreSQL Formula 1 Database
 </h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/patrikmitterpach/f1db/main/images/f1logo.png" width="100">
